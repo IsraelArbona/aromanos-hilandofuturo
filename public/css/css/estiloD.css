@@ -1,0 +1,455 @@
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a {
+  color: #0087C3;
+  text-decoration: none;
+}
+
+body {
+  position: relative;
+
+  width: 21cm;
+  height: 29.7cm;
+
+  margin: 0 auto;
+  background: #FFFFFF;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-family: SourceSansPro;
+}
+
+header {
+  padding: 10px 0;
+  margin-bottom: 10px;
+}
+
+#logo {
+  float: center;
+}
+
+#logo img {
+  height: 110px;
+  width: 150px;
+  opacity:100%;
+}
+
+#company {
+  float: center;
+  text-align: center;
+}
+
+h2.name {
+  font-size: 1.4em;
+  font-weight: normal;
+  margin: 0;
+}
+
+#companyd {
+  float: center;
+  text-align: center;
+  font-size: 0.7em;
+}
+
+
+.rpt_row {
+  height: auto;
+  /* dale altura
+  min-height: .25in; */
+  display: -webkit-box;
+  -webkit-box-align: center;
+  display: -moz-box;
+  -moz-box-align: center;
+  display: -webkit-flex;
+  -webkit-flex-wrap: wrap;
+  position: static;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.rpt_rowd {
+  height: auto;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  -webkit-flex-wrap: wrap;
+  position: static;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4,
+.col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg,
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3,
+.col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9,
+.col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12,
+.col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7,
+.col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10,
+.col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5,
+.col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl,
+.col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3,
+.col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.hfac {
+
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border: 1px solid #3989c6;
+
+  font-size: 100%;
+  color: #fff;
+  text-align: center;
+}
+
+.hfacaseo {
+  border-right: 1px solid #3989c6;
+  font-size: 100%;
+  text-align: center;
+  padding-top: 60px;
+  padding-left: 15px;
+}
+
+/*
+  -------------------------------------                PRINCIPAL
+*/
+
+.hfac2 {
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border: 1px solid #3989c6;
+
+  font-size: 75%;
+  text-align: center;
+  margin-right: 1px;
+}
+
+.hfaclateralderecha {
+  border: 1px solid #3989c6;
+  font-size: 75%;
+  text-align: center;
+  margin-right: 2px;
+}
+
+div.tituloprincipal{
+  height: 20px;
+  border-bottom: 1px solid #DCF0FF;
+}
+
+div.titulo20{
+  height: 20px;
+  padding-left: 3px;
+  padding-top: 3px;
+  border-right: 1px solid #DCF0FF;
+}
+
+div.titulo201{
+  height: 20px;
+  padding-left: 3px;
+  padding-top: 3px;
+}
+
+div.tituloprincipalsin{
+  border-bottom: 1px solid #DCF0FF;
+}
+
+div.titulosin{
+  padding-left: 3px;
+  padding-top: 3px;
+  border-right: 1px solid #DCF0FF;
+}
+
+div.titulosin1{
+  padding-left: 3px;
+  padding-top: 3px;
+}
+
+
+h2.titulo {
+  /*color: #0087C3; */
+  float: center;
+  text-align: left;
+  font-size: 1em;
+  font-weight: normal;
+}
+
+h2.titulod {
+  float: center;
+  text-align: left;
+  font-size: 1em;
+  font-weight: bold;
+  margin: 0 auto;
+}
+
+
+/*
+  -------------------------------------                INDICE
+*/
+
+
+h2.titulocentrado {
+  /*color: #0087C3; */
+  float: center;
+  text-align: center;
+  font-size: 1em;
+  font-weight: bold;
+  margin: 0;
+  padding-left: 2px;
+}
+
+h2.titulodcentrado {
+  float: center;
+  text-align: center;
+  font-size: 1em;
+  font-weight: bold;
+  margin: 0;
+}
+
+h2.titulodcentradosin {
+  float: center;
+  text-align: center;
+  font-size: 1em;
+  font-weight: normal;
+  margin: 0;
+}
+
+h2.titulodizquierdasin {
+    float: center;
+    text-align: center;
+    font-size: 1em;
+    font-weight: normal;
+    margin: 0;
+    padding-left: 4px;
+  }
+
+h2.periodofacturado {
+  float: center;
+  text-align: center;
+  font-size: 0.7em;
+  font-weight: bold;
+  margin: 0;
+}
+
+/*
+  -------------------------------------                MEDICIÓN
+*/
+
+.tsombraprincipal{
+  background-color: #F5FAFF;
+  border-radius: 9px 9px 0px 0px;
+  -moz-border-radius: 9px 9px 0px 0px;
+  -webkit-border-radius: 9px 9px 0px 0px;
+}
+
+.titulomp {
+  color: #fff;
+  float: center;
+  text-align: center;
+  font-size: 1em;
+  font-weight: normal;
+  margin: 0;
+}
+
+.titulomborde{
+    border-right: 1px solid #3989c6;
+    border-bottom: 1px solid #3989c6;
+}
+
+.titulom {
+  /*color: #0087C3; */
+  text-align: left;
+  font-size: 0.9em;
+  font-weight: bold;
+  margin: 0;
+  height: 16px;
+  background-color: #fff;
+}
+
+.titulomdborde{
+    border-bottom: 1px solid #3989c6;
+}
+
+.titulomd {
+  text-align: right;
+  font-size: 1em;
+  font-weight: normal;
+  margin: 0;
+  height: 16px;
+  background-color: #fff;
+}
+
+
+/*
+  -------------------------------------                total 1
+*/
+
+.hfac3 {
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border: 1px solid #3989c6;
+
+  font-size: 75%;
+  text-align: center;
+  margin-right: 2px;
+  margin-bottom: 1px;
+}
+
+h2.titulotp {
+  float: center;
+  text-align: center;
+  font-size: 1.4em;
+  font-weight: bold;
+  margin: 0;
+}
+
+h2.titulot {
+  float: center;
+  text-align: center;
+  font-size: 1.7em;
+  font-weight: bold;
+  margin: 0;
+}
+
+h2.titulotpderecha {
+  float: center;
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 0;
+}
+
+/*
+  -------------------------------------                detalles
+*/
+
+.hfacacu {
+  border-radius: 10px 10px 10px 10px; -moz-border-radius: 10px 10px 10px 10px; -webkit-border-radius: 10px 10px 10px 10px;
+  border: 1px solid #3989c6;
+  font-size: 75%;
+  text-align: center;
+  margin-right: 1px;
+}
+
+.detalleacualcase {
+  color: #fff;
+  float: center;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: normal;
+  margin: 0;
+}
+
+.detalleacualcasetot {
+  color: #fff;
+  float: center;
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: normal;
+  margin: 0;
+}
+
+.titacud {
+  /*color: #0087C3; */
+  float: center;
+  text-align: left;
+  font-size: 0.9em;
+  font-weight: normal;
+  margin: 0;
+  height: 11px;
+}
+
+.titacudv {
+  float: center;
+  text-align: right;
+  font-size: 0.9em;
+  font-weight: normal;
+  margin: 0;
+  height: 11px;
+}
+
+.hfacalc {
+  border-radius: 10px 10px 10px 10px; -moz-border-radius: 10px 10px 10px 10px; -webkit-border-radius: 10px 10px 10px 10px;
+  border: 1px solid #FD9600;
+  font-size: 75%;
+  text-align: center;
+  margin-right: 1px;
+}
+
+.titalcd {
+  color: #FD9600;
+  float: center;
+  text-align: left;
+  font-size: 0.9em;
+  font-weight: normal;
+  margin: 0;
+  height: 11px;
+}
+
+.titalcdv {
+  float: center;
+  text-align: right;
+  font-size: 0.9em;
+  font-weight: normal;
+  margin: 0;
+  height: 11px;
+}
+
+
+.hfacase {
+  border-radius: 10px 10px 10px 10px; -moz-border-radius: 10px 10px 10px 10px; -webkit-border-radius: 10px 10px 10px 10px;
+  /* border: 1px solid #008F54; */
+  border: 1px solid #1E5E00;
+  font-size: 75%;
+  text-align: center;
+  margin-right: 1px;
+}
+
+.titased {
+  color: #1E5E00;
+  float: center;
+  text-align: left;
+  font-size: 0.7em;
+  font-weight: normal;
+  margin: 0;
+  height: 11px;
+}
+
+.titasedv {
+  float: center;
+  text-align: right;
+  font-size: 0.7em;
+  font-weight: normal;
+  margin: 0;
+  height: 11px;
+}
+
+.divifac {
+    margin-top: 0;
+    margin-bottom: 0;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+}
+
+.paginahr {
+  page-break-after: always;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}

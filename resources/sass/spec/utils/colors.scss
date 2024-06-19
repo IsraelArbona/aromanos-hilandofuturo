@@ -1,0 +1,41 @@
+// ---------------------------------------------------------
+// @TOC
+// ---------------------------------------------------------
+
+// + @Material Color
+// + @Grey Colors
+
+// ---------------------------------------------------------
+// @Material Color
+// ---------------------------------------------------------
+
+@each $item, $color in $md-colors {
+  .c-#{$item},     .cH-#{$item}:hover      { color: $color !important; }
+  .bgc-#{$item},   .bgcH-#{$item}:hover    { background-color: $color !important; }
+  .bdc-#{$item},   .bdcH-#{$item}:hover    { border-color: $color !important; }
+  .fill-#{$item},  .fillH-#{$item}:hover   { fill: $color !important; }
+  .str-#{$item},   .strH-#{$item}:hover    { stroke: $color !important; }
+
+  .bbou-#{$item} { color: $color !important; background-color: transparent !important; background-image: none; border-color: $color !important; }
+  .bbou-#{$item}:hover { color: white !important; background-color: $color !important; border-color: $color !important; }
+  .bbou-#{$item}:focus, .bbou-#{$item}.focus { box-shadow: 0 0 0 .2rem }
+  .bbou-#{$item}.disabled, .bbou-#{$item}:disabled { color: $color !important; background-color: transparent; }
+
+  .dtbbou-#{$item} { color: white !important; background-color: $color !important; background-image: none; border-color: $color !important; }
+  .dtbbou-#{$item}:hover { color: white !important; background-color: $color !important; border-color: $color !important; }
+  .dtbbou-#{$item}:focus, .dtbbou-#{$item}.focus { box-shadow: 0 0 0 .1rem }
+  .dtbbou-#{$item}.disabled, .dtbbou-#{$item}:disabled { color: $color !important; background-color: transparent; }
+  
+}
+
+// ---------------------------------------------------------
+// @Grey Colors
+// ---------------------------------------------------------
+
+@each $item, $color in $grey-colors-alt {
+  .c-#{$item},     .cH-#{$item}:hover      { color: $color !important; }
+  .bgc-#{$item},   .bgcH-#{$item}:hover    { background-color: $color !important; }
+  .bdc-#{$item},   .bdcH-#{$item}:hover    { border-color: $color !important; }
+  .fill-#{$item},  .fillH-#{$item}:hover   { fill: $color !important; }
+  .str-#{$item},   .strH-#{$item}:hover    { stroke: $color !important; }
+}
