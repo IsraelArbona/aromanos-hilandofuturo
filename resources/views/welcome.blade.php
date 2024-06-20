@@ -260,7 +260,7 @@
                       <a href="tel:+573182584987"><i class="fa fa-phone fa-2x"></i></a>
                       <h3>Llámanos</h3>
                       
-                      <span class="font-l">(315) 449 65 88</span>
+                      <span class="font-l">322 303 84 79</span>
                  </div>
             </div>   
             <div class="social-icons"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-instagram-outline"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a></div>
