@@ -98,8 +98,8 @@
                         <div class="card special-skill-item border-0">
                             <div class="card-header bg-transparent border-0"><i class="icon fa fa-balance-scale"></i></div>
                             <div class="card-body">
-                                <h3 class="card-title"><a href="assets/recursos/1. INFORME DE GESTION 2023.pdf" class="desca" target="_blank">Descargar</a></h3>
-                                <p class="card-text">1. INFORME DE GESTION 2023</p>
+                                <h3 class="card-title"><a href="assets/recursos/1. INFORME DE GESTION 2024.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">1. INFORME DE GESTION 2024</p>
                             </div>
                         </div>
                     </div>
@@ -107,8 +107,8 @@
                         <div class="card special-skill-item border-0">
                             <div class="card-header bg-transparent border-0"><i class="icon fa fa-bar-chart"></i></div>
                             <div class="card-body">
-                                <h3 class="card-title"><a href="assets/recursos/2. ESTADOS FINANCIEROS 2023.pdf" class="desca" target="_blank">Descargar</a></h3>
-                                <p class="card-text">2. ESTADOS FINANCIEROS 2023</p>
+                                <h3 class="card-title"><a href="assets/recursos/2. ESTADOS FINANCIEROS 2024.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">2. ESTADOS FINANCIEROS 2024</p>
                             </div>
                         </div>
                     </div>
@@ -116,22 +116,50 @@
                         <div class="card special-skill-item border-0">
                             <div class="card-header bg-transparent border-0"><i class="icon fa fa-file-pdf-o"></i></div>
                             <div class="card-body">
-                                <h3 class="card-title"><a href="assets/recursos/3. CERTIFICACIÓN ART 364.pdf" class="desca" target="_blank">Descargar</a></h3>
-                                <p class="card-text">3. CERTIFICACIÓN ART 364</p>
+                                <h3 class="card-title"><a href="assets/recursos/3. CERTIFICACION ARTICULO 364-3.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">3. CERTIFICACION ARTICULO 364-3</p>
                             </div>
                         </div>
                     </div>  
                 </div>
 
-
-
                 <div class="row">
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0"><i class="icon fa fa-file-pdf-o"></i></div>
+                            <div class="card-body">
+                                <h3 class="card-title"><a href="assets/recursos/4. CERTIFICACION ARTICULO 364-5.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">4. CERTIFICACION ARTICULO 364-5</p>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-md-4">
                         <div class="card special-skill-item border-0">
                             <div class="card-header bg-transparent border-0"><i class="icon fa fa-file-pdf-o fa-2x"></i></div>
                             <div class="card-body">
-                                <h3 class="card-title"><a href="assets/recursos/4. ACTA DE CONSTITUCIÓN.pdf" class="desca" target="_blank">Descargar</a></h3>
-                                <p class="card-text">4. ACTA DE CONSTITUCIÓN</p>
+                                <h3 class="card-title"><a href="assets/recursos/5. ACTA DE CONSTITUCIÓN.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">5. ACTA DE CONSTITUCIÓN</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0"><i class="icon fa fa-file-pdf-o"></i></div>
+                            <div class="card-body">
+                                <h3 class="card-title"><a href="assets/recursos/6. CERTIFICADO DE EXISTENCIA Y REPRESENTACION DE CAMARA DE COMERCIO.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">6. CERTIFICADO DE EXISTENCIA Y REPRESENTACION DE CAMARA DE COMERCIO</p>
+                            </div>
+                        </div>
+                    </div>  
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0"><i class="icon fa fa fa-clone"></i></div>
+                            <div class="card-body">
+                                <h3 class="card-title"><a href="assets/recursos/7. ACTA ASAMBLEA Y REPRESENTACION DE CARMARA DE COMERCIO 2025.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">7. ACTA ASAMBLEA Y REPRESENTACION DE CARMARA DE COMERCIO 2025</p>
                             </div>
                         </div>
                     </div>
@@ -139,17 +167,17 @@
                         <div class="card special-skill-item border-0">
                             <div class="card-header bg-transparent border-0"><i class="icon fa fa-clone"></i></div>
                             <div class="card-body">
-                                <h3 class="card-title"><a href="assets/recursos/5. CERTIFICADO DE EXISTENCIA Y REPRESENTACIÓN.pdf" class="desca" target="_blank">Descargar</a></h3>
-                                <p class="card-text">5. CERTIFICADO DE EXISTENCIA Y REPRESENTACIÓN</p>
+                                <h3 class="card-title"><a href="assets/recursos/8. CERTIFICACION A LOS ESTADOS FINANCIEROS 2024.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">8. CERTIFICACION A LOS ESTADOS FINANCIEROS 2024</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card special-skill-item border-0">
-                            <div class="card-header bg-transparent border-0"><i class="icon fa fa fa-clone"></i></div>
+                            <div class="card-header bg-transparent border-0"><i class="icon fa fa-check-square-o"></i></div>
                             <div class="card-body">
-                                <h3 class="card-title"><a href="assets/recursos/6. ACTA ASAMBLEA XVIII 2024.pdf" class="desca" target="_blank">Descargar</a></h3>
-                                <p class="card-text">6. ACTA ASAMBLEA XVIII 2024</p>
+                                <h3 class="card-title"><a href="assets/recursos/9. ESTATUTOS FUNDACIÓN HILANDO FUTURO.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">9. ESTATUTOS FUNDACIÓN HILANDO FUTURO</p>
                             </div>
                         </div>
                     </div>  
@@ -161,8 +189,8 @@
                         <div class="card special-skill-item border-0">
                             <div class="card-header bg-transparent border-0"><i class="icon fa fa-check-square-o"></i></div>
                             <div class="card-body">
-                                <h3 class="card-title"><a href="assets/recursos/7. ESTATUTOS FUNDACIÓN HILANDO FUTURO.pdf" class="desca" target="_blank">Descargar</a></h3>
-                                <p class="card-text">7. ESTATUTOS FUNDACIÓN HILANDO FUTURO</p>
+                                <h3 class="card-title"><a href="assets/recursos/10. CERTIFICACION NO REMUNERACION.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">10. CERTIFICACION NO REMUNERACION</p>
                             </div>
                         </div>
                     </div>
@@ -170,8 +198,8 @@
                         <div class="card special-skill-item border-0">
                             <div class="card-header bg-transparent border-0"><i class="icon fa fa-check-square-o"></i></div>
                             <div class="card-body">
-                                <h3 class="card-title"><a href="assets/recursos/8. CERTIFICACIÓN ANTECEDENTES JUDICIALES.pdf" class="desca" target="_blank">Descargar</a></h3>
-                                <p class="card-text">8. CERTIFICACIÓN ANTECEDENTES JUDICIALES</p>
+                                <h3 class="card-title"><a href="assets/recursos/11. CONSTANCIA SECRETARIAL ACTA ASAMBLEA.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">11. CONSTANCIA SECRETARIAL ACTA ASAMBLEA</p>
                             </div>
                         </div>
                     </div>
@@ -179,8 +207,39 @@
                         <div class="card special-skill-item border-0">
                             <div class="card-header bg-transparent border-0"><i class="icon fa fa-check-square-o"></i></div>
                             <div class="card-body">
-                                <h3 class="card-title"><a href="assets/recursos/9. COMISION VERIFICADORA DEL ACTA.pdf" class="desca" target="_blank">Descargar</a></h3>
-                                <p class="card-text">9. COMISION VERIFICADORA DEL ACTA</p>
+                                <h3 class="card-title"><a href="assets/recursos/12. INFORME DE AUDITORIA.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">12. INFORME DE AUDITORIA</p>
+                            </div>
+                        </div>
+                    </div>  
+                </div>
+
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0"><i class="icon fa fa-check-square-o"></i></div>
+                            <div class="card-body">
+                                <h3 class="card-title"><a href="assets/recursos/13. PRESUPUESTO 2025.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">13. PRESUPUESTO 2025</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0"><i class="icon fa fa-check-square-o"></i></div>
+                            <div class="card-body">
+                                <h3 class="card-title"><a href="assets/recursos/14. PROYECTO DE DESTINACION 2024.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">14. PROYECTO DE DESTINACION 2024</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0"><i class="icon fa fa-check-square-o"></i></div>
+                            <div class="card-body">
+                                <h3 class="card-title"><a href="assets/recursos/15. RUT FUNDACION 2025.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">15. RUT FUNDACION 2025</p>
                             </div>
                         </div>
                     </div>  
@@ -191,8 +250,8 @@
                         <div class="card special-skill-item border-0">
                             <div class="card-header bg-transparent border-0"><i class="icon fa fa-check-square-o"></i></div>
                             <div class="card-body">
-                                <h3 class="card-title"><a href="assets/recursos/10. CERTIFICACIÓN MIEMBROS DE LA FUNDACIÓN.pdf" class="desca" target="_blank">Descargar</a></h3>
-                                <p class="card-text">10. CERTIFICACIÓN MIEMBROS DE LA FUNDACIÓN</p>
+                                <h3 class="card-title"><a href="assets/recursos/16. VERIFICACION DEL ACTA.pdf" class="desca" target="_blank">Descargar</a></h3>
+                                <p class="card-text">16. VERIFICACION DEL ACTA</p>
                             </div>
                         </div>
                     </div>
@@ -267,7 +326,7 @@
 
             <div class="row">
                 <p class="col-sm-12 text-center tm-font-light tm-color-white p-4 tm-margin-b-0">
-                    Ing. Israel Arbona Guerrero &copy; <span class="tm-current-year">2024</span>  
+                    Ing. Israel Arbona Guerrero &copy; <span class="tm-current-year">2025</span>  
                     <span> Telefonos: 320 420 7701 - Email: israelarbona1988@gmail.com</span> 
                 </p>                               
            </div>
